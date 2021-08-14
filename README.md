@@ -1,2 +1,4 @@
-# test_repo
-This is a test repo
+# Test Repository
+This repository is meant to be a test, will be adding basic python programs
+
+## Notebooks
